@@ -2,8 +2,7 @@ cask "duoupdater" do
   version "0.5.5"
   sha256 "d7d9545ffab0a0658bc6b8dac7c14a183de99cb75cde7c30c615d092b8fd1195"
 
-  url "https://github.com/jizhi0v0/duo-updater/releases/download/v#{version}/DuoUpdater-#{version}-macos.zip",
-      verified: "github.com/jizhi0v0/duo-updater/"
+  url "https://github.com/jizhi0v0/duo-updater/releases/download/v#{version}/DuoUpdater-#{version}-macos.zip"
   name "DuoUpdater"
   desc "Keep apps and command-line tools up to date from the menu bar"
   homepage "https://duoupdater.app/"
