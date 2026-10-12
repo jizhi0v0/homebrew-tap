@@ -32,6 +32,7 @@ cask "duoupdater" do
     "~/Library/HTTPStorages/com.duoupdater.cli",
     "~/Library/HTTPStorages/com.duoupdater.cli.binarycookies",
     "~/Library/Preferences/com.duoupdater.app.plist",
+    "~/Library/Saved Application State/com.duoupdater.app.savedState",
     "~/Library/WebKit/com.duoupdater.app",
   ]
 end
