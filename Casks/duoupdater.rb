@@ -1,6 +1,6 @@
 cask "duoupdater" do
-  version "0.5.11"
-  sha256 "76d6a6b8064ca72f6559cca4baba6e07d1dac6b321f8c984b69413fbc277c8e1"
+  version "0.5.12"
+  sha256 "0b58930f8a791fcc1dbbcc68c3d5fa73591ea4c27dec86f28b6ec183e57e139d"
 
   url "https://github.com/jizhi0v0/duo-updater/releases/download/v#{version}/DuoUpdater-#{version}-macos.zip"
   name "DuoUpdater"
